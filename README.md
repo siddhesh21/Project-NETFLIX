@@ -1,3 +1,12 @@
+# https://project-netflix-23ae7.web.app  
+
+# Checkout the build from above URL and be sure to process payments by using 4242 4242 4242 4242 in Card Number
+### Name: Your_Name
+### MM/YY: 04/24
+### CVV: 424
+### Fill in rest as you wish... 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
