@@ -1,6 +1,7 @@
 # https://project-netflix-23ae7.web.app  
 
-# Checkout the build from above URL and be sure to process payments by using 4242 4242 4242 4242 in Card Number
+## Checkout the build from above URL 
+### Be sure to process payments by using 4242 4242 4242 4242 in Card Number
 ### Name: Your_Name
 ### MM/YY: 04/24
 ### CVV: 424
